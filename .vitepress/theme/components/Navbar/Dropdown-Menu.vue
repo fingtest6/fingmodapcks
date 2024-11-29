@@ -32,6 +32,8 @@ import ToggleSwitch from './ToggleSwitch.vue'
     border-radius: 2vw;
     padding: 1.2vw;
     gap: 0.8vw;
+    width: 85px;
+    height: 120px;
     display: flex;
     flex-direction: column;
     align-items: center;

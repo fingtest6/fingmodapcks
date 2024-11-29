@@ -15,7 +15,7 @@
       :checked="state.SpinePlayerEnabled"
       @change="SwitchSpinePlayer"
     />
-    <label for="spinePlayerCheckbox" class="toggleSwitch"><span class="text">阿罗娜(什亭之人)</span></label>
+    <label for="spinePlayerCheckbox" class="toggleSwitch"><span class="text">阿罗娜<br>(什亭之人)</span></label>
   </div>
 </template>
 
@@ -62,7 +62,7 @@ const SwitchSpinePlayer = (event: Event) => {
   align-items: center;
   justify-content: center;
   position: relative;
-  right: 1.2vw;
+  right: 2.0vw;
   width: 2vw;
   height: 1.2vw;
   background-color: rgb(82, 82, 82);
@@ -74,9 +74,11 @@ const SwitchSpinePlayer = (event: Event) => {
     position: relative;
     cursor: default;
     white-space: nowrap;
-    right: -2.5vw;
+    right: -3.5vw;
     font-size: 0.8vw;
     user-select: none;
+    //剧中文字
+    text-align: center;
   }
 }
 
