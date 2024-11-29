@@ -15,7 +15,7 @@
       :checked="state.SpinePlayerEnabled"
       @change="SwitchSpinePlayer"
     />
-    <label for="spinePlayerCheckbox" class="toggleSwitch"><span class="text">阿罗娜</span></label>
+    <label for="spinePlayerCheckbox" class="toggleSwitch"><span class="text">阿罗娜(什亭之人)</span></label>
   </div>
 </template>
 
