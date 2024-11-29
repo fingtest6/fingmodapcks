@@ -87,7 +87,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //footer配置
-    footerName: 'FingTest6&RDUTeam',
+    footerName: 'FingTest6&RDUTeam 联系方式stzr@rduteam.top',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
