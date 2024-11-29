@@ -17,7 +17,7 @@ export interface ThemeConfig {
 
   //gitalk
   clientID: string
-  clientSecret: stringaa
+  clientSecret: string
   repo: string
   owner: string
   admin: string[]
@@ -65,8 +65,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "什亭之人的整合包发布",
+  description: "什亭之人的整合包",
   themeConfig: {
     // navBar
     menuList: [
@@ -76,29 +76,29 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
+    name: "什亭之人的整合包发布",
+    welcomeText: '',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
+      { icon: 'github', url: 'https://github.com/fingtest6' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/1992332214' },
       { icon: 'qq', url: 'https://im.qq.com/index/' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
 
     //footer配置
-    footerName: 'Sensei',
+    footerName: 'FingTest6&RDUTeam',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
     ],
 
     //gitalk配置
-    clientID: 'Ov23lia9U9wFN3WMyoKK',
-    clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
-    repo: 'vitepress-theme-bluearchive',
-    owner: 'Alittfre',
-    admin: ['Alittfre'],
+    clientID: 'Ov23liK8vtrsHzZic1FY',
+    clientSecret: 'd434c47445928f70baeb9ed35ec30c43fcf0f45a',
+    repo: 'fingtest6_hlog_comments',
+    owner: 'fingtest6',
+    admin: ['fingtest6'],
   },
   markdown: {
     theme: 'github-light',
