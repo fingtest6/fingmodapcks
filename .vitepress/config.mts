@@ -17,7 +17,7 @@ export interface ThemeConfig {
 
   //gitalk
   clientID: string
-  clientSecret: string
+  clientSecret: stringaa
   repo: string
   owner: string
   admin: string[]
