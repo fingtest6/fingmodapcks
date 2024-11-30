@@ -48,4 +48,6 @@ tags: [QuietDream, 1.21.1, NeoForge]
 ## 下载
 Modrinth: [未发布,将在正式版后发布]
 
+蓝奏云: [点击下载](https://wwgk.lanzouq.com/iiHDj2gq6ayf)密码:g4s7
+
 Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.1)
