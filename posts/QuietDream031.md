@@ -30,14 +30,22 @@ tags: [QuietDream, 1.21.1, NeoForge]
 我采用了BOP,BWG以及 Epic Terrain 来给你带来更好的世界 (搭配光影使用更佳)
 
 电脑带不动光影,只能放放入这张图片了QWQ
-![1.png](https://i.postimg.cc/fWdSST0z/2024-11-29-20-38-04.png)
 
+(点击details查看图片)
+::: details
+![1.png](https://i.postimg.cc/fWdSST0z/2024-11-29-20-38-04.png)
+![1.png](https://i.postimg.cc/1RFQYsCj/2024-11-30-12-40-57.png)
+![1.png](https://i.postimg.cc/t4qGTPXK/2024-11-30-12-41-28.png)
+![1.png](https://i.postimg.cc/CLVV3X9L/2024-11-30-12-51-33.png)
+![1.png](https://i.postimg.cc/mk7Wcy1s/2024-11-30-13-12-56.png)
+![1.png](https://i.postimg.cc/gkqPm4Py/2024-11-30-13-56-32.png)
+![1.png](https://i.postimg.cc/CxcTf15z/2024-11-30-13-59-44.png)
+![1.png](https://i.postimg.cc/mrnv85Q4/2024-11-30-14-00-53.png)
+![1.png](https://i.postimg.cc/d0DMRYZn/2024-11-30-14-02-52.png)
+![1.png](https://i.postimg.cc/1XhLZVCY/2024-11-30-14-03-41.png)
+![1.png](https://i.postimg.cc/MKYghTyd/2024-11-30-14-16-11.png)
+:::
 ## 下载
 Modrinth: [未发布,将在正式版后发布]
 
 Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.1)
-
-
-
-
-
