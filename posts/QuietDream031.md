@@ -11,13 +11,13 @@ tags: [QuietDream, 1.21.1, NeoForge]
 
 ## 整合包介绍
 ### 基础信息
-版本1.21.1
+Minecraft版本1.21.1
 
 模组加载器:  NeoForge
 
 加载器版本:  21.1.83
 
-模组数量:  212
+模组数量:  211
 
 整合包是否完工?:  否
 ### 介绍
@@ -46,8 +46,8 @@ tags: [QuietDream, 1.21.1, NeoForge]
 ![1.png](https://i.postimg.cc/MKYghTyd/2024-11-30-14-16-11.png)
 :::
 ## 下载
-Modrinth: [未发布,将在正式版后发布]
+Modrinth： [未发布,将在正式版后发布]
 
-蓝奏云: [点击下载](https://wwgk.lanzouq.com/iiHDj2gq6ayf)密码:g4s7
+蓝奏云： [点击下载](https://wwgk.lanzouq.com/iiHDj2gq6ayf)密码:g4s7
 
-Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.1)
+Github： [点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.1)
