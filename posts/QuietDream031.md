@@ -48,7 +48,7 @@ Minecraft版本1.21.1
 ## 下载
 Modrinth： [未发布,将在正式版后发布]
 
-蓝奏云： [点击下载](https://wwgk.lanzouq.com/iiHDj2gq6ayf)密码:g4s7
+蓝奏云：[已关闭,不支持旧版本下载,请前往github上下载旧版本]
 
 Github： [点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.1)
 ::: tip
