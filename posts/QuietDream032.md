@@ -115,3 +115,8 @@ Modrinth：[未发布,将在正式版后发布]
 蓝奏云：[点击下载](https://wwgk.lanzouq.com/iajjr2hk3ugj)密码:3691
 
 Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.2)
+::: tip
+文件名: QuietDream 0.3.2.mrpack
+
+MD5值: 40924e4366822a1c89b50aad8de7716e
+:::
