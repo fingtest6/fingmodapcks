@@ -1,6 +1,6 @@
 ---
 title: AronaChat1.0.0
-date: 2024-11-30
+date: 2024-12-12
 tags: [AronaChat, 1.21.1, NeoForge]
 ---
 ## 介绍
