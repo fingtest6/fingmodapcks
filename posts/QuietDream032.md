@@ -85,10 +85,83 @@ Vampirism： 1.10.0——>1.10.1
 
 整合包是否完工?:  否
 ### 介绍
-清静之梦主要是一个偏向养老的整合包
+清静之梦是一个偏向种田做饭的养老整合包
 
-我向整合包中添加了很多的食物mod,矿物甘蔗,加速火把,YSM,AE2,Iron's Spells 'n Spellbooks,更好的第一人称,一键整理,Pufferfish's Skills,
-小狗天才,车万女仆,永恒星光,No LAN Cheating,豆腐工艺重制版,结构变体,qraftyfied,并且添加很多的建筑方块来给你的养老生活添加更多色彩
+并且还在整合包里添加了一些建筑模组来给你的养老生活添加更多色彩
+
+如果感觉无趣,不妨可以去豆腐世界或是星光维度去转一转?
+
+也可以养一只小狗给它升级技能(小狗天才)
+
+或是通过合成应用能源的创造能源元件开启自动化时代
+
+### 添加的农业Mod
+::: details
+农夫乐事-Farmer's Delight
+
+竹子乐事-Bamboo Delight
+
+洞穴乐事-Cave Delight
+
+中国乐事-China Delight
+
+玉米乐事-Corn Delight
+
+作物盛景-Croptopia
+
+料理乐事-Cuisine Delight
+
+饺子乐事重写-Dumplings Delight Rewrapped
+
+地牢乐事-Dungeon Delight
+
+末影乐事-Ender's Delight
+
+末地乐事-End's Delight
+
+扩充乐事-Expanded Delight
+
+额外乐事-Extra Delight
+
+Farmer's Croptopia
+
+果园乐事-Fruits Delight
+
+GrowableOres
+
+蜂蜜乐事-Honey Delight
+
+日本乐事-Japan Delight
+
+葡园酒香-[Let's do] Vinery
+
+更多乐事-More Delight
+
+下界乐事-My Nether's Delight
+
+Oh The Biomes We've Gone Delight
+
+资源蜜蜂-Productive Bees
+
+乡村乐事-Rustic Delight
+
+种子乐事-Seed Delight
+
+糖果乐事-Sweet Delight
+
+茶风·纪事：追叙-Tea the Story : Recount
+
+豆腐乐事-Tofu Delight
+
+美国乐事-USA Delight
+
+Vegetables Delight
+
+板条箱乐事-Crate Delight
+:::
+### 一部分模组列表
+矿物甘蔗,加速火把,YSM,AE2,Iron's Spells 'n Spellbooks,更好的第一人称,一键整理,Pufferfish's Skills,
+小狗天才,车万女仆,永恒星光,No LAN Cheating,豆腐工艺重制版,结构变体,qraftyfied
 
 ### 特色地形生成
 我采用了BOP,BWG以及 Epic Terrain 来给你带来更好的世界 (搭配光影使用更佳)
