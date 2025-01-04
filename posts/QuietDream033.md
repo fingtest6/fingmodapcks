@@ -1,77 +1,111 @@
 ---
-title: 清静之梦0.3.2测试版
-date: 2024-12-8
+title: 清静之梦0.3.3测试版
+date: 2024-12-16
 tags: [QuietDream, 1.21.1, NeoForge]
 ---
 ## 更新内容
-### mod内容
-添加[流体漏斗](https://modrinth.com/mod/flopper)
+### 增加或减少的Mod
+添加[应用经验](https://modrinth.com/mod/applied-experienced)
 
-添加流体漏斗的依赖[Cyclops Core](https://modrinth.com/mod/cyclops-core)
+以及应用经验的前置库[ExperienceLib](https://modrinth.com/mod/experiencelib)
 
-添加[Polymorphic Energistics](https://modrinth.com/mod/polymorphic-energistics)
+添加[Youkai's Homecoming](https://modrinth.com/mod/youkaishomecoming)
 
-添加[进度牌匾](https://modrinth.com/mod/advancement-plaques)
+添加[AronaChat](./AronaChat100)
 
-添加[精妙存储](https://modrinth.com/mod/sophisticated-storage)
+添加[Cultural Delights](https://modrin.com/mod/cultural-delights)
 
-更新的mod：
+移除吸血鬼Mod[Vampirism](https://modrin.com/mod/vampirism)
 
-AdvancedAE： 1.1.7——>1.1.10
+移除吸血鬼乐事[Vampire's Delight](https://modrinth.com/mod/vampires-delight)
 
-Farmer's Croptopia： 1.1.0——>1.1.1
+移除[StorageDrawers](https://modrinth.com/mod/storagedrawers)
 
-ExtraDelight： 2.2——>2.2.1
+### 更新的mod：
 
-ImmediatelyFast： 1.3.2——>1.3.3
+应用能源: 19.0.23 ——>19.1.2-beta
 
-Iris Shaders： 1.8.0——>1.8.1
+MEGA Cells: 4.2.0 ——>4.3.0
 
-Lithostitched： 1.3.8——>1.3.9
+[❄WINTER] Decorative Storage: 2.0910 ——>2.1212
 
-Lithium： 0.14.2——>0.14.3
+3D Skin Layers: 1.7.2——>1.7.4
 
-ModernDeco： 3.6.2——>3.7.0
+AdvancedAE: 1.1.10——>1.1.17
 
-Sophisticated Core： 0.7.13.797——>0.7.14.804
+Concurrent Chunk Management Engine: 0.3.0+alpha.0.31——>0.3.0+alpha.0.47
 
-Sodium： 0.6.0——>0.6.3
+Cultural Delights: 0.17——>0.17.2
 
-Caves Delight： 1.0.2.3——>1.0.2.7
+永恒星光: 0.1.18——>0.2.2
 
-CreativeCore： 2.12.23——>2.12.24
+First-person Model: 2.4.6——>2.4.8
 
-Display Delight： 1.1.0——>1.2.0
+Jade: 15.8.3——>15.9.2
 
-Dungeon Delight： 1.0.1——>1.0.2.3
+mcwifipnp: 1.7.3——>1.8.0
 
-Entity Culling： 1.7.1——>1.7.2
+Macaw's Trapdoors: 1.1.3——>1.1.4
 
-Expanded Combat：3.3.0——>3.3.1
+Loot Bags: 2.2——>3.1
 
-Farmer's Delight： 1.2.5——>1.2.6
+Lithostitched: 1.3.9——>1.3.10
 
-Fzzy Config： 0.5.8——>0.5.9
+My Nether's Delight: 1.7.7——>1.7.8
 
-Incendium： 5.4.3——>5.4.4
+Polymorph: 1.0.6——>1.0.7
 
-Iron's Spells Delight： 1.0.2.1——>1.0.2.4
+playerAnimator: 2.0+alpha1——>2.0.1
 
-Oh The Biomes We've Gone Delight： 1.0.2.1——>1.0.2.4
+Oh The Trees You'll Grow: 5.0.3——>5.0.6
 
-Nullscape： 1.2.9——>1.2.10
+Oh The Biomes We've Gone: 2.2.5——>2.3.0
 
-Vampirism： 1.10.0——>1.10.1
+Not Enough Animations: 1.8.1——>1.9.0
 
-移除的mod：
+Better McDonald's Mod: 4.3.0——>4.4.0
 
-移除[Coal Explosion](https://modrinth.com/mod/coal-explosion)
+Friends&Foes Delight: 1.0.1——>1.0.1.1
 
-移除[Auroras](https://modrinth.com/mod/auroras)
+GrowableOres: 2.4.2——>3.0.0
 
-移除[grs-aatrox](https://modrinth.com/mod/grs-aatrox)
+HugMe: 1.1——>1.3
+
+Japan Delight: 1.0.1——>1.0.1.3
+
+Pufferfish's Attributes: 0.6.6——>0.7.1
+
+钠: 0.6.3——>0.6.5
+
+Sophisticated Backpacks: 3.20.26.1151——>3.21.1.1162
+
+Sophisticated Storage: 0.11.5.976——>1.0.11.1001
+
+Sweet Delight: 1.0.3.2——>1.0.3.4
+
+Xaero's World Map: 1.39.0——>1.39.2
+
+Xaero's Minimap: 24.6.1——>24.7.1
+
+Vegetables Delight: 1.0.5——>1.0.5.1
+
+Ube's Delight: 0.2.3——>0.3.1
+
+Time in a bottle: 6.2.0——>6.3.0
 ### 其他
-添加Bountiful Blocks的翻译
+将NeoForge版本从21.1.83 ——>21.1.93
+
+### 合成配方更改
+
+赛特斯石英矿石杆 合成的赛特斯石英水晶数量从1 ——>4
+
+福鲁伊克斯矿石杆 合成的福鲁伊克水晶斯数量从1 ——>2
+
+配方更改:将合成创造能元件的赛特斯石英块更换为
+
+添加配方:[印压器(应用能源)]:赛特斯石英切割刀/下界石英割刀+圆石=沙砾
+
+添加配方:[印压器(应用能源)]:赛特斯石英切割刀/下界石英割刀+沙砾=沙子
 
 ## 整合包介绍
 ### 基础信息
@@ -79,7 +113,7 @@ Vampirism： 1.10.0——>1.10.1
 
 模组加载器:  NeoForge
 
-加载器版本:  21.1.83
+加载器版本:  21.1.90
 
 模组数量:  213
 
@@ -185,11 +219,12 @@ Vegetables Delight
 ## 下载
 Modrinth：[未发布,将在正式版后发布]
 
-蓝奏云：[已关闭,不支持旧版本下载,请前往github上下载旧版本]
+蓝奏云：[点击下载](https://wwgk.lanzouq.com/itWU12jvsv0h)密码:2ag4
 
-Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/QuietDream0.3.2)
+Github：[点击下载](https://github.com/fingtest6/fingmodapcks/releases/tag/QuietDream0.3.3)
 ::: tip
-文件名: QuietDream 0.3.2.mrpack
+文件名: QuietDream 0.3.3.mrpack
 
-MD5值: 40924e4366822a1c89b50aad8de7716e
+MD5值: 1291a3367879ddc9b89439b1778d9cae
 :::
+

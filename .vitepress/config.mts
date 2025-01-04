@@ -78,7 +78,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     videoBanner: false,
     name: "什亭之人的整合包发布",
     welcomeText: '',
-    motto: ['新年快乐!'],
+    motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。', '阿罗娜好！星影坏！', '你好啊,我是什亭之人,还是一个二创作者QWQ', '你知道吗？什亭之人这个名字的意思是什亭之匣之中的人QWQ', '你知道吗？这里的整合包都是作者自己玩过的', '你知道吗?清静之梦整合包里的应用能源的创造能源元件是可以合成的!', '阿罗娜最可爱了!阿罗娜最可爱了!阿罗娜最可爱了!'],
     social: [
       { icon: 'github', url: 'https://github.com/fingtest6' },
       { icon: 'bilibili', url: 'https://space.bilibili.com/1992332214' },
